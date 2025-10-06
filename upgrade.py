@@ -29,7 +29,7 @@ def register_upgrade_handlers(bot):
                f"• 🎓 All Non DRM+AES Encrypted URLs\n"
                f"• 🎓 MPD URLs if the key is known (e.g., Mpd_url?key=key XX:XX)</blockquote>\n\n"
                f"<b>💵 Monthly Plan: 100 INR</b>\n\n"
-               f"If you want to buy membership of the bot, feel free to contact [{CREDIT}](tg://user?id={OWNER})\n"
+               f"If you want to buy membership of the bot, feel free to contact [{meena ji}](tg://user?id={OWNER})\n"
         )  
     
       await callback_query.message.edit_media(
